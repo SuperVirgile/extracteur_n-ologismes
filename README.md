@@ -18,4 +18,4 @@ Ce script classe la liste final de néologismes en fonction de leur fréquence d
 ## stat_graphplot.py
 Ce script à été modifié plusieurs fois et est changé à chaque nouvelle étude. Ici il est configurer pour faire des statistiques sur la distribution d'un groupe de néologismes dans le corpus.
 
-# n'hésitez pas à jeter un coup d'œil au rapport, bonne lecture 
+# n'hésitez pas à jeter un coup d'œil au rapport, bonne lecture :)
